@@ -1,4 +1,22 @@
-### Hi there 👋
+# Hi there 👋
+# I'm Giuseppe Matranga, happy to see you here!
+
+---
+## 🚀 About me
+
+I am Giuseppe Matranga, a **Software Architect** specialized on **Python Backend Applications** and **DevOps**.
+I've found an IT consulting compant, CodeStorm.
+
+🤝 I enjoy to contribute to **Open Source** and develop solutions for my customers using open based software. I grew up in a sharing environment which prompted me to found a _Linux User Group_.
+
+🌱 I'm always in search of building new skills, indeed, on 2021 I approached the _Cloud Computing_ word and I’m specializing my background on learning **Kubernetes** and **GitOps** world.
+
+🎸 Under the shoes of a young _entrepreneur_, I'm passionate about _music_, _cooking_ and _personal development_. My hobbies range from **guitar** to read tons of books about: **personal fianance**, **mindfulness**, **critical thinking**.
+
+✈️ I'm split on many cities, principally i spent a lot of time between **Palermo** and **Milan** and to visit my friends around the world.
+
+🏋️ I'm searching for **developers** with many backgrounds to collaborate on big projects, or just to chatting!
+
 
 <!--
 **mastrobirraio/mastrobirraio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
